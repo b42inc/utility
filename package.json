@@ -1,16 +1,29 @@
 {
   "name": "b42-utility",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Bushitsu Inc. special js utility library",
+  "main": "src/index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b42inc/utility.git"
+  },
+  "bugs": {
+    "url": "https://github.com/b42inc/utility/issues"
+  },
+  "homepage": "https://github.com/b42inc/utility#readme",
+  "keywords": [
+    "utility",
+    "b42",
+    "bushitsu"
+  ],
+  "author": "Bushitsu Inc.",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "7.7.5",
     "@babel/preset-env": "7.7.6",

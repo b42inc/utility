@@ -1,0 +1,1 @@
+export { isDoppel } from './is-doppel'
